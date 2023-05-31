@@ -5,3 +5,7 @@ Untuk file yang sedang saya kerjakan saya akan memberikan linknya dibawah karena
 ### Untuk linknya
 
 https://drive.google.com/drive/folders/1FXqjtPvh75_id5ANblgIRMMF7mdmaBHT?usp=drive_link
+berisi file tflite, hasil kode model untuk prediksi, dan data untuk output hasil kalori
+
+
+
